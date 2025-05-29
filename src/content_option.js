@@ -84,23 +84,21 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itUG4rTJjWyU/v0/-1x-1.webp",
-        description: "Solar Panels Installation and Maintenance",
-        link: "https://ecocleansolarsolutionz.web.app/",
-         target: "_blank",
-    },
+const dataportfolio = [
     {
-        img: "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        description: "Caputure Life in Perfect Focus .",
-        link: "https://aa-tech-1.web.app/",
-         target: "_blank",
-    },
-    {
-        img: "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        description: "Create. Connect. Captivate. Celebrate.",
+        img: "/dashwave.png",
+        description: "Event Analytics Dashboard",
         link: "https://shadcn-ochre.vercel.app/",
-            target: "_blank",
+    },
+    {
+        img: "/renewable-energy-web-portal.png",
+        description: "Renewable Energy Web Portal",
+        link: "https://ecocleansolarsolutionz.web.app/",
+    },
+    {
+        img: "/aa-tech.png",
+        description: "AA Tech | Caputure Life in Perfect Focus.",
+        link: "https://aa-tech-1.web.app/",
     },
    /* {
         img: "https://picsum.photos/400/600/?grayscale",
